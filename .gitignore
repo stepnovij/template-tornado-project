@@ -139,5 +139,4 @@ env/*
 data_set/*
 .DS_Store
 .idea/*
-results/*
 .pytest_cache/*
