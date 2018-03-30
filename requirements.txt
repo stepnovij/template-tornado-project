@@ -1,0 +1,9 @@
+attrs==17.4.0
+more-itertools==4.1.0
+nltk==3.2.5
+numpy==1.14.2
+pluggy==0.6.0
+py==1.5.3
+pytest==3.5.0
+six==1.11.0
+tornado==5.0.1
